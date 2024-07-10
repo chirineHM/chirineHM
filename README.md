@@ -3,11 +3,8 @@
 <img align="left" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHUyNGlldXZzcDJ4bDZvcWxhbm9tY2s2NzZ0aWx3ejY1Y3U5NTRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif"> 
 
 
+🔭 I’m currently working on a spring AI project with ollama Mistral model
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirineHM&hide_progress=true)
-
-
-![chirine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirineHM&show_icons=true&theme=radical)
 <!--
 **chirineHM/chirineHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
